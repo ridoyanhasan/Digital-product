@@ -65,3 +65,19 @@
     background-color: white;
     color: black;
 }
+/* about style */
+.about-img{
+    width:300px;
+}
+.about-info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.about-title{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 30px;
+}
